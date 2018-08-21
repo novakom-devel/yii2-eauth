@@ -1,5 +1,5 @@
 {
-	"name": "novakom-devel/yii2-eauth",
+	"name": "novakom/yii2-eauth",
 	"description": "Yii2 EAuth Extension. EAuth allows to authenticate users with accounts on other websites (Google, Facebook, Twitter, etc).",
 	"keywords": ["yii2", "extension", "eauth", "openid", "oauth", "authentication"],
 	"homepage": "https://github.com/novakom-devel/yii2-eauth",
@@ -10,7 +10,12 @@
 			"name": "Maxim Zemskov",
 			"email": "nodge@yandex.ru",
 			"homepage": "http://nodge.ru/"
-		}
+		},
+                {
+                        "name": "Novakom Developers team",
+                        "email": "novakom.devel@gmail.com",
+                        "role": "Developer"
+                },
 	],
 	"support": {
 		"source": "https://github.com/nodge/yii2-eauth"
