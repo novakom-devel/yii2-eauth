@@ -15,7 +15,7 @@
                         "name": "Novakom Developers team",
                         "email": "novakom.devel@gmail.com",
                         "role": "Developer"
-                },
+                }
 	],
 	"support": {
 		"source": "https://github.com/nodge/yii2-eauth"
