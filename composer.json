@@ -4,7 +4,7 @@
 	"keywords": ["yii2", "extension", "eauth", "openid", "oauth", "authentication"],
 	"homepage": "https://github.com/novakom-devel/yii2-eauth",
 	"type": "yii2-extension",
-	"license": "New BSD License",
+	"license": "BSD-3-Clause",
 	"authors": [
 		{
 			"name": "Maxim Zemskov",
